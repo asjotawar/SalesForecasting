@@ -1,2 +1,2 @@
 # SalesForecasting
-THis is an Web application which used Machine Learning and Stasistical algorithems to forcast sales
+This is a Web application which used Machine Learning and Statistical algorithems to forecast sales
